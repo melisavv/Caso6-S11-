@@ -1,0 +1,13 @@
+#circulo{
+    width: 50px;/*ancho*/
+    height: 50px;/*alto*/
+    background-color: yellowgreen;
+    border-radius: 50%;/*es para darle borde redondo al cuadrado*/
+    margin: auto;
+}
+#barra{
+    width: 500px;
+    height: 30px;
+    background-color: blue;
+
+}
